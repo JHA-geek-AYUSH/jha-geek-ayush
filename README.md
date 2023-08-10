@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **Frontend-Development**, **JavaScript**, **scripting** and **Backend-Development**
 
-- 👨‍💻 Check out my [portfolio](https://jhaayush.netlify.app)
+- 👨‍💻 Check out my [Portfolio](https://jhaayush.netlify.app)
 
-- 😉 Fun fact :- Coding algorithms or painting strokes, my canvas knows no bounds!
+- 😉 Tidbit  :  ```Coding algorithms or painting strokes, my canvas knows no bounds!```
 
 <br>
 
