@@ -51,7 +51,9 @@
     <a href="https://docs.djangoproject.com/en/4.2/"> <img src="https://skillicons.dev/icons?i=django" /> </a>  
     <a href="https://flutter.dev/"> <img src="https://skillicons.dev/icons?i=flutter" /> </a>  
     <a href="https://www.figma.com/"> <img src="https://skillicons.dev/icons?i=figma" /> </a>  
-    <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
+    <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=git" /> </a> 
+    <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" /> </a>
+    <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=netlify" /> </a>
     <a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a>  
     <a href="https://nodejs.org/en"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>  
     <a href="https://expressjs.com/"> <img src="https://skillicons.dev/icons?i=express" /> </a>  
@@ -60,7 +62,9 @@
     <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" /> </a> 
     <a href="https://sass-lang.com/"> <img src="https://skillicons.dev/icons?i=sass" /> </a>  
     <a href="https://www.selenium.dev/"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>  
-    <a href="https://replit.com/"> <img src="https://skillicons.dev/icons?i=replit" /> </a>  
+    <a href="https://replit.com/"> <img src="https://skillicons.dev/icons?i=replit" /> </a>
+    <a href="https://replit.com/"> <img src="https://skillicons.dev/icons?i=vscode" /> </a> 
+    <a href="https://replit.com/"> <img src="https://skillicons.dev/icons?i=powershell" /> </a> 
     <a href="https://developer.android.com/studio"> <img src="https://skillicons.dev/icons?i=androidstudio" /> </a>  
      <a href="https://www.linux.org/"> <img src="https://skillicons.dev/icons?i=linux" /> </a>  
      <a href="https://www.vim.org/"> <img src="https://skillicons.dev/icons?i=vim" /> </a>  
