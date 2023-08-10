@@ -26,9 +26,9 @@
 <p align="left">
 <a href="https://instagram.com/itsmeoberoy" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=instagram"
-      alt="itsmeoberoy" height="30" width="30" /></a>
+      alt="itsmeoberoy" height="35" width="35" /></a>
 <a href="https://www.hackerrank.com/ayushrajonline7" target="blank">
-      <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="jha-geek-ayush" height="30" width="30" 
+      <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="jha-geek-ayush" height="35" width="35" 
       alt="ayushrajonline7" /></a>
 </p>
 
