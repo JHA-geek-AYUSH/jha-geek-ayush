@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jha-geek-ayush&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jha-geek-ayush&label=Profile%20views&color=0e75b6&style=plastic"
     alt="views" /> 
   </p>
 <p><img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380px" alt="JH@⌣@YUSH" /></p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning about Data Structures and Algorithms
 
-- 📫 Reach me at **ayushrajonline7@gmail.com**
+- 📧 Reach me at **ayushrajonline7@gmail.com** 
 
 - 💬 Ask me about **Frontend-Development**, **JavaScript**, **scripting** and **Backend-Development**
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://instagram.com/itsmeoberoy" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=instagram"
@@ -35,7 +35,7 @@
 
 <br>
 
-## Languages and Tools:
+## 💻 Languages and Tools:
 <p align="center">
   <a href="">
   <br>
@@ -76,8 +76,14 @@
 </p>
 
 <br>
+<br>
 
-<h3>Statistical Data :-</h3>
+## 🏆 GitHub Trophies
+ ![](https://github-profile-trophy.vercel.app/?username=jha-geek-ayush&theme=radical&no-frame=false&no-bg=true&margin-w=9&title=Stars,Followers,Commits,Repositories,Experience,PullRequest)
+
+<br>
+
+## 📊 Statistical Data
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jha-geek-ayush&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="JH@⌣@YUSH" 
