@@ -25,6 +25,9 @@
 
 ## 🌐 Connect with me:
 <p align="left">
+<a href="https://www.linkedin.com/in/ayush-raj-52b133329" target="blank"><img align="center"
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="itsmeoberoy" height="35" width="35" /></a>
 <a href="https://instagram.com/itsmeoberoy" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=instagram"
       alt="itsmeoberoy" height="35" width="35" /></a>
