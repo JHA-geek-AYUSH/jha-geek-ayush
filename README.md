@@ -86,6 +86,11 @@
 
 <br>
 
+## 🐉 Holopins
+[![An image of @jhageekayush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhageekayush)](https://holopin.io/@jhageekayush)
+
+<br>
+
 ## 📊 Statistical Data
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jha-geek-ayush&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
