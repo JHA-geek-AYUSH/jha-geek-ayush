@@ -81,12 +81,24 @@
 <br>
 <br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
  ![](https://github-profile-trophy.vercel.app/?username=jha-geek-ayush&theme=radical&no-frame=false&no-bg=true&margin-w=9&title=Stars,Followers,Commits,Repositories,Experience,PullRequest)
 
 <br>
 
-## 🐉 Holopins
+## 🪶 GSSOC(24) Badges:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" />
+    <br>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100" height="100" />
+</p>
+
+## 🐉 Holopins:
 [![An image of @jhageekayush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhageekayush)](https://holopin.io/@jhageekayush)
 
 <br>
