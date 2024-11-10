@@ -90,6 +90,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" />
+    <img src="https://gssoc.girlscript.tech/badges/web3hack.png" alt="Web3Hack Badge" width="93" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" />
@@ -97,6 +98,83 @@
     <br>
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100" height="100" />
 </p>
+
+## :zap: Open Source Programs & Achievements
+
+<div align="center">
+ <table>
+ <tr align="center">
+ <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+ <a href="https://gssoc.girlscript.tech/leaderboard">
+ <img src="https://user-images.githubusercontent.com/63473496/153487849-4f094c16-d21c-463e-9971-98a8af7ba372.png" alt="GirlScript Summer of Code" width="120" />
+ <br>
+ <strong>GirlScript Summer of Code Extend</strong>
+ </a>
+ <br>
+ <br>
+ <span style="font-size: 14px; color: #555555;">🏅 Ranked 277th</span>
+ <br>
+ <span style="font-size: 12px; color: #777777;">
+ Out of 32000+ participants<br>
+ PRs Merged: 6 <br>
+ Total Badges: 7<br>
+ Total Score: 1040<br>
+ </span>
+ </td>
+ <td style="padding: 15px;" valign="top" width="50%">
+ <table>
+ <tr align="center">
+ <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="80" />
+ <br>
+ <strong>Explorer Badge</strong>
+ </td>
+ <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="80" />
+ <br>
+ <strong>Adventurer Badge</strong>
+ </td>
+ <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Champion Badge" width="80" />
+ <br>
+ <strong>Trailblazer Badge</strong>
+ </td>
+ <td style="padding: 10px;" width="100">
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Trailblazer Badge" width="80" />
+ <br>
+ <strong>Summit Seeker Badge</strong>
+ </td>
+ </tr>
+ <tr align="center">
+ <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Summit Seeker Badge" width="80" />
+ <br>
+ <strong>Champion Badge</strong>
+ </td>
+ <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+ <img src="https://gssoc.girlscript.tech/badges/web3hack.png" alt="Web3Hack Badge" width="75" />
+ <br>
+ <strong>Web3Hack Badge</strong>
+ </td>
+ <td style="padding: 10px;" width="100">
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman API Fundamentals Student Expert" width="80" />
+ <br>
+ <strong>API Student Expert</strong>
+ <br>
+ <span style="font-size: 12px; color: #777777;">Postman</span>
+ </td>
+ <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+ <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" alt="Git Explorer" width="360" />
+ <br>
+ <strong>Git Explorer</strong>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+</div>
+
 
 ## 🐉 Holopins:
 [![An image of @jhageekayush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhageekayush)](https://holopin.io/@jhageekayush)
