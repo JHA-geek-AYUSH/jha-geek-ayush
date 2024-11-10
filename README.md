@@ -99,7 +99,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100" height="100" />
 </p>
 
-## :zap: Open Source Programs & Achievements
+## :zap: Open Source Programs & Achievements:
 
 <div align="center">
  <table>
